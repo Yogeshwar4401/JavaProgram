@@ -8,7 +8,7 @@ class SunnyNum
 		int num=sc.nextInt();
 		int add=num+1;
 		int sqr=0;
-		double least=(add/);
+		double least=(add);
 
      for(int i=1;i<=add;i++)
      	{   
