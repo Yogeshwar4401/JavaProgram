@@ -22,7 +22,7 @@ class Autobigraphical
 			System.out.println("Autobigraphical number");
 		}
 		else {
-			 System.out.println("Autobigraphical number");
+			 System.out.println("It Is Not Autobigraphical number");
 		}
 
 
