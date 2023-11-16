@@ -7,7 +7,7 @@ class  ReverseNum
 		System.out.println("Enter the Number :");
 		int num =sc.nextInt();
         int rev=0;
-		for(i=Num; i>0; i=Num%10)
+		for(int i=num; i>0; i=num%10)
 		{
 			rev=rev+i;
 		}System.out.println(rev);
