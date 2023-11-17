@@ -14,6 +14,9 @@ class BuzzNumber
 		else 
 		{
 			System.out.println("it is not Buzz Number");
+			System.out.println("it is not Buzz Number");
+			
+			
 		}
 		
 	}
